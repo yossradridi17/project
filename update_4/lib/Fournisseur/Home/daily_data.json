@@ -1,0 +1,51 @@
+[
+   {
+      "date": "2022-04-18",
+      "income": 2450.00,
+      "average_quantity": 5.2,
+      "sales": 57,
+      "orders": 42
+   },
+   {
+      "date": "2022-04-19",
+      "income": 3125.00,
+      "average_quantity": 4.7,
+      "sales": 72,
+      "orders": 53
+   },
+   {
+      "date": "2022-04-20",
+      "income": 1875.50,
+      "average_quantity": 3.9,
+      "sales": 44,
+      "orders": 30
+   },
+   {
+      "date": "2022-04-21",
+      "income": 1780.00,
+      "average_quantity": 4.1,
+      "sales": 49,
+      "orders": 35
+   },
+   {
+      "date": "2022-04-22",
+      "income": 2350.25,
+      "average_quantity": 5.8,
+      "sales": 63,
+      "orders": 47
+   },
+   {
+      "date": "2022-04-23",
+      "income": 2987.50,
+      "average_quantity": 6.3,
+      "sales": 84,
+      "orders": 59
+   },
+   {
+      "date": "2022-04-24",
+      "income": 1980.75,
+      "average_quantity": 4.9,
+      "sales": 56,
+      "orders": 39
+   }
+]
